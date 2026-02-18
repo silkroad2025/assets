@@ -1,0 +1,25 @@
+{
+  "name": "SilkRoadCoin",
+  "symbol": "SRC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "SilkRoadCoin (SRC) is a utility-focused BEP-20 token designed for real-world digital commerce, cross-border payments, and community-driven growth across emerging markets.",
+  "website": "https://silkroadcoin.online/",
+  "explorer": "https://bscscan.com/token/0xfB0F9690114Ff06d898cDD86fBA1b49354b6cbb2",
+  "status": "active",
+  "id": "0xfB0F9690114Ff06d898cDD86fBA1b49354b6cbb2",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/silkroad2019"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/silkroad_holding"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://silkroadcoin.online/whitepaper"
+    }
+  ]
+}
